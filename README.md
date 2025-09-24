@@ -1,4 +1,4 @@
-🤖 Chatbot Flow Builder
+🤖 **Chatbot Flow Builder**
 A powerful and intuitive chatbot flow builder built with React and React Flow. Create, edit, and visualize chatbot conversation flows with an easy-to-use drag-and-drop interface.
 
 🌐 Live Application
